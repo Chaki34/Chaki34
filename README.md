@@ -134,22 +134,22 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaki34&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Chaki34&theme=dark&hide_border=false" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaki34&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Chaki34&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaki34&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaki34&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chaki34&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chaki34&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
@@ -163,18 +163,17 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
 
 ## 🔝 Top Contributed Repo
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Chaki34&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Chaki34&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=1800" />
+</p>
 
 ---
 
 ## 👀 Profile Views
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Chaki34&icon=2&color=4" />
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chaki34&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 *⭐️ Feel free to fork this README and make it your own. Let's build something amazing together!*
