@@ -173,7 +173,7 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
 ## 🔝 Top Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaki34&repo=python-basics&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chaki34&repo=python-basics&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
