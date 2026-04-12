@@ -33,7 +33,7 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
 
 ---
 
-## 🎥 Watch My Journey (Video Demo)
+## 🎥 Watch My Journey 
 
 <!-- Replace with your actual video link or embed -->
 <p align="center">
@@ -137,7 +137,7 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Chaki34&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chaki34&show_icons=true&theme=tokyonight&hide_border=true" />
 </td>
 <td>
 <img src="https://streak-stats.demolab.com?user=Chaki34&theme=tokyonight&hide_border=true"/>
@@ -145,7 +145,7 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaki34&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chaki34&layout=compact&theme=tokyonight&hide_border=true" />
 </td>
 </tr>
 </table>
