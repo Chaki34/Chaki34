@@ -1,25 +1,33 @@
 <!-- Header Banner / Illustration -->
 <table width="100%">
   <tr>
-   
 
-   <td width="25%" align="right">
+    <!-- Profile Image -->
+   <td width="18%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/picture.png"
+           alt="Debmalya Chaki"
+           width="170"/>
+    </td>
 
-<img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/picture.png"
-     alt="Debmalya Chaki"
-     width="170"/>
+  <!-- Typing Animation -->
+  <td width="62%" align="left" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A0DAD&center=false&vCenter=true&width=780&lines=Debmalya+Chaki;B.Tech+CSE+Student;API+Enthusiast;System+Design+Learner"
+  alt="Typing SVG"/>
+  </td>
 
-   </td>
+  <!-- Stamp -->
+  <td width="20%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/stamp.svg"
+  alt="Verified Stamp"
+   width="200"/>
+  </td>
 
-<td width="75%" align="left">
+  <td width="20%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/stamp.svg"
+  alt="Verified Stamp"
+   width="200"/>
+  </td>
 
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A0DAD&center=false&vCenter=true&width=800&lines=Debmalya+Chaki;B.Tech+CSE+Student;API+Enthusiast;System+Design+Learner" alt="Typing SVG" />
-</p>
-
-   </td>
-   
   </tr>
 </table>
 
