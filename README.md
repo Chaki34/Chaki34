@@ -2,30 +2,31 @@
 <table width="100%">
   <tr>
 
-    <!-- Profile Image -->
-   <td width="18%" align="center" valign="middle">
+  <!-- Profile Image -->
+  <td width="18%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/picture.png"
            alt="Debmalya Chaki"
            width="170"/>
     </td>
 
   <!-- Typing Animation -->
-  <td width="62%" align="left" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A0DAD&center=false&vCenter=true&width=780&lines=Debmalya+Chaki;B.Tech+CSE+Student;API+Enthusiast;System+Design+Learner"
-  alt="Typing SVG"/>
-  </td>
+  <td width="46%" align="left" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A0DAD&center=false&vCenter=true&width=600&lines=Debmalya+Chaki;B.Tech+CSE+Student;API+Enthusiast;System+Design+Learner"
+           alt="Typing SVG"/>
+    </td>
 
-  <!-- Stamp -->
-  <td width="20%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/stamp.svg"
-  alt="Verified Stamp"
-   width="200"/>
-  </td>
+  <!-- Java Stamp -->
+  <td width="18%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/stamp.svg"
+           alt="Java Verified"
+           width="200"/>
+    </td>
 
-  <td width="20%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/stamp.svg"
-  alt="Verified Stamp"
-   width="200"/>
+  <!-- Python Stamp -->
+  <td width="18%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/python.svg"
+           alt="Python Verified"
+           width="200"/>
   </td>
 
   </tr>
