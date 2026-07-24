@@ -42,7 +42,7 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
   <tr>
     <!-- Left Column: Visual/Illustration -->
     <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/Chaki34/Chaki34/blob/main/picture.png" width="100%" style="border-radius:10px; border: 1px solid #6A0DAD;"/>
+      <img src="https://github.com/Chaki34/Chaki34/blob/main/assci.png" width="100%" style="border-radius:10px; border: 1px solid #6A0DAD;"/>
       <br/>
       <code><b>[ SYSTEM STATUS: ACTIVE ]</b></code>
     </td>
