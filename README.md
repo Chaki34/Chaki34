@@ -61,10 +61,217 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
         <b>Live_Stats:</b><br/>
         <img src="https://komarev.com/ghpvc/?username=Chaki34&label=VIEWS&color=6A0DAD&style=flat-square" />
       </p>
-    </td>
+      <table>
+<tr>
+<td>
+
+### ☕ Java
+<img src="https://progress-bar.xyz/87/?title=Java&color=f89820"/>
+
+</td>
+
+<td>
+
+### 🐍 Python
+<img src="https://progress-bar.xyz/74/?title=Python&color=3776AB"/>
+
+</td>
+
+<td>
+
+### ⚡ JavaScript
+<img src="https://progress-bar.xyz/63/?title=JavaScript&color=F7DF1E"/>
+
+</td>
+
+<td>
+
+### 🔷 TypeScript
+<img src="https://progress-bar.xyz/52/?title=TypeScript&color=3178C6"/>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🐹 Go
+<img src="https://progress-bar.xyz/35/?title=Go&color=00ADD8"/>
+
+</td>
+
+<td>
+
+### ⚙️ C++
+<img src="https://progress-bar.xyz/28/?title=C++&color=00599C"/>
+
+</td>
+
+<td>
+
+### 🌐 HTML
+<img src="https://progress-bar.xyz/15/?title=HTML&color=E34F26"/>
+
+</td>
+
+<td>
+
+### 🎨 CSS
+<img src="https://progress-bar.xyz/11/?title=CSS&color=1572B6"/>
+
+</td>
+</tr>
+</table>
+
+      
+  </td>
   </tr>
 </table>
 </div>
+
+---
+
+<h3>🚀 Backend Frameworks</h3>
+
+<table>
+<tr>
+<td>
+
+### 🌱 Spring Boot
+<img src="https://progress-bar.xyz/90/?title=SpringBoot&color=6DB33F"/>
+
+</td>
+
+<td>
+
+### ⚡ Spring MVC
+<img src="https://progress-bar.xyz/85/?title=SpringMVC&color=6DB33F"/>
+
+</td>
+
+<td>
+
+### 🔐 Spring Security
+<img src="https://progress-bar.xyz/72/?title=SpringSecurity&color=6DB33F"/>
+
+</td>
+
+<td>
+
+### 🗄️ Hibernate
+<img src="https://progress-bar.xyz/70/?title=Hibernate&color=59666C"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3>⚛️ Frontend Frameworks</h3>
+
+<table>
+<tr>
+<td>
+
+### ⚛️ React
+<img src="https://progress-bar.xyz/75/?title=React&color=61DAFB"/>
+
+</td>
+
+<td>
+
+### ▲ Next.js
+<img src="https://progress-bar.xyz/55/?title=NextJS&color=000000"/>
+
+</td>
+
+<td>
+
+### 🎨 Tailwind
+<img src="https://progress-bar.xyz/70/?title=Tailwind&color=06B6D4"/>
+
+</td>
+
+<td>
+
+### 🅱 Bootstrap
+<img src="https://progress-bar.xyz/85/?title=Bootstrap&color=7952B3"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3>🤖 AI / ML Frameworks</h3>
+
+<table>
+<tr>
+<td>
+
+### TensorFlow
+<img src="https://progress-bar.xyz/55/?title=TensorFlow&color=FF6F00"/>
+
+</td>
+
+<td>
+
+### PyTorch
+<img src="https://progress-bar.xyz/60/?title=PyTorch&color=EE4C2C"/>
+
+</td>
+
+<td>
+
+### Scikit-learn
+<img src="https://progress-bar.xyz/65/?title=ScikitLearn&color=F7931E"/>
+
+</td>
+
+<td>
+
+### OpenCV
+<img src="https://progress-bar.xyz/75/?title=OpenCV&color=5C3EE8"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3>📊 Big Data Frameworks</h3>
+
+<table>
+<tr>
+<td>
+
+### Apache Hadoop
+<img src="https://progress-bar.xyz/35/?title=Hadoop&color=FFCC00"/>
+
+</td>
+
+<td>
+
+### Apache Spark
+<img src="https://progress-bar.xyz/30/?title=Spark&color=E25A1C"/>
+
+</td>
+
+<td>
+
+### Apache Kafka
+<img src="https://progress-bar.xyz/55/?title=Kafka&color=231F20"/>
+
+</td>
+
+<td>
+
+### Apache Hive
+<img src="https://progress-bar.xyz/25/?title=Hive&color=FDEE21"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
