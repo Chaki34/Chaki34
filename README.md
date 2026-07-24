@@ -1,12 +1,27 @@
 <!-- Header Banner / Illustration -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=800&lines=Debmalya+Chaki;B.Tech+CSE+Student;API+Enthusiast;System+Design+Learner" alt="Typing SVG" />
+<table width="100%">
+  <tr>
+   
+
+   <td width="25%" align="right">
+
+<img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/picture.png"
+     alt="Debmalya Chaki"
+     width="170"/>
+
+   </td>
+
+<td width="75%" align="left">
+
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A0DAD&center=false&vCenter=true&width=800&lines=Debmalya+Chaki;B.Tech+CSE+Student;API+Enthusiast;System+Design+Learner" alt="Typing SVG" />
 </p>
 
-<!-- Optional: A cool illustration or banner image (replace with your own) -->
-<img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/assets/picture.png"
-     alt="Debmalya Chaki"
-     width="80%" />
+   </td>
+   
+  </tr>
+</table>
 
 ---
 
@@ -27,7 +42,7 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
   <tr>
     <!-- Left Column: Visual/Illustration -->
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/assets/picture.png" width="100%" style="border-radius:10px; border: 1px solid #6A0DAD;"/>
+      <img src="https://github.com/Chaki34/Chaki34/blob/main/picture.png" width="100%" style="border-radius:10px; border: 1px solid #6A0DAD;"/>
       <br/>
       <code><b>[ SYSTEM STATUS: ACTIVE ]</b></code>
     </td>
