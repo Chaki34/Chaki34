@@ -4,9 +4,9 @@
 </p>
 
 <!-- Optional: A cool illustration or banner image (replace with your own) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/assets/coding_illustration.gif" alt="Coding illustration" width="80%" />
-</p>
+<img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/assets/picture.png"
+     alt="Debmalya Chaki"
+     width="80%" />
 
 ---
 
@@ -16,6 +16,40 @@
 
 Passionate about building **robust, scalable, and efficient** software solutions across **web, Android, and backend systems**.  
 I enjoy designing clean APIs and exploring system architecture to create high-performance applications.
+
+---
+
+
+## 🚀 Terminal Dashboard
+
+<div align="center">
+<table width="100%">
+  <tr>
+    <!-- Left Column: Visual/Illustration -->
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Chaki34/Chaki34/main/assets/picture.png" width="100%" style="border-radius:10px; border: 1px solid #6A0DAD;"/>
+      <br/>
+      <code><b>[ SYSTEM STATUS: ACTIVE ]</b></code>
+    </td>
+    <!-- Right Column: Information -->
+    <td width="60%" valign="top">
+      <p align="left">
+        <b>ID:</b> <code>Debmalya Chaki</code><br/>
+        <b>Subject:</b> <code>B.Tech Computer Science</code><br/>
+        <b>Profile:</b> <code>API Enthusiast | System Design Learner</code><br/>
+        <b>Building:</b> <code>Scalable Backend & Android Systems</code><br/>
+        <hr/>
+        <b>Core_Lang:</b> <code>Java, Python, JS, TS, Go, C++</code><br/>
+        <b>Core_Framework:</b> <code>React, Node.js, Spring, FastAPI</code><br/>
+        <b>Core_Database:</b> <code>PostgreSQL, MongoDB, Redis</code><br/>
+        <hr/>
+        <b>Live_Stats:</b><br/>
+        <img src="https://komarev.com/ghpvc/?username=Chaki34&label=VIEWS&color=6A0DAD&style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
