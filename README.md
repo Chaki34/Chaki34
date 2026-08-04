@@ -300,13 +300,12 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
 
 ## 🎥 Watch My Journey 
 
-<!-- Replace with your actual video link or embed -->
 <p align="center">
-  <a href="https://www.pexels.com/download/video/12283404/" target="_blank">
-    <img src="https://images.pexels.com/photos/11035393/pexels-photo-11035393.jpeg" alt="Watch my intro video" width="80%" />
+  <a href="https://www.youtube.com/@YourChannelName" target="_blank">
+    <img src="https://www.youtube.com/@CodeWithDebofficial" alt="YouTube Channel" width="180"/>
   </a>
   <br/>
-  <em>Click the thumbnail to watch my tech journey 🚀</em>
+  <strong>🎥 Visit My YouTube Channel</strong>
 </p>
 
 ---
