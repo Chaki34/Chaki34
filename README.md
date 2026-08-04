@@ -301,8 +301,8 @@ I enjoy designing clean APIs and exploring system architecture to create high-pe
 ## 🎥 Watch My Journey 
 
 <p align="center">
-  <a href="https://www.youtube.com/@YourChannelName" target="_blank">
-    <img src="https://www.youtube.com/@CodeWithDebofficial" alt="YouTube Channel" width="180"/>
+  <a href="https://www.youtube.com/@CodeWithDebofficial" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUAPgjG-AEnZlxTaoocGoun11IgZCPNEyGA&s" alt="YouTube Channel" width="180"/>
   </a>
   <br/>
   <strong>🎥 Visit My YouTube Channel</strong>
